@@ -1,0 +1,7 @@
+v 4
+file . "state_machine.vhd" "af83d90ca011fd50243989950ad5e69e397a8de4" "20230625121328.581":
+  entity lift_ctr at 1( 0) + 0 on 29;
+  architecture lift_ctr_arch of lift_ctr at 20( 405) + 0 on 30;
+file . "test_state.vhd" "757175d3eba406ea54168f3e97d22047135f9859" "20230625121332.518":
+  entity lift_ctr_tb at 1( 0) + 0 on 31;
+  architecture testbench of lift_ctr_tb at 7( 84) + 0 on 32;
