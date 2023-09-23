@@ -1,0 +1,40 @@
+$date
+  Mon Apr 10 13:14:33 2023
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module std_logic_arith $end
+$upscope $end
+$scope module std_logic_unsigned $end
+$upscope $end
+$scope module array_type $end
+$upscope $end
+$scope module test1 $end
+$comment input_arr is not handled $end
+$var integer 32 ! output_sum $end
+$scope module cal $end
+$comment input_arr is not handled $end
+$var integer 32 " output_sum $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b111 !
+b111 "
+#10000
+b1010 !
+b1010 "
+#20000
+b1110 !
+b1110 "
+#30000
