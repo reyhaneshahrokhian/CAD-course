@@ -1,0 +1,44 @@
+$date
+  Mon Apr 10 14:09:46 2023
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module std_logic_arith $end
+$upscope $end
+$scope module std_logic_unsigned $end
+$upscope $end
+$scope module test3 $end
+$var reg 16 ! a[15:0] $end
+$var reg 4 " output[3:0] $end
+$scope module cal $end
+$var reg 16 # a[15:0] $end
+$var reg 4 $ output[3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000000000000011 !
+b0010 "
+b0000000000000011 #
+b0010 $
+#10000
+b0000000000001111 !
+b0100 "
+b0000000000001111 #
+b0100 $
+#20000
+b0000000011111111 !
+b1000 "
+b0000000011111111 #
+b1000 $
+#30000
