@@ -1,0 +1,8 @@
+v 4
+file . "test4.vhd" "e5cd3a21431fe9fe12c9e3f90634ba66bde11907" "20230410110808.314":
+  entity test4 at 1( 0) + 0 on 24;
+  architecture testbench of test4 at 8( 135) + 0 on 25;
+file . "4.vhd" "7a2fbe6e125db3e40afa16b48597ca7312171a1b" "20230410110803.882":
+  package array_type at 1( 0) + 0 on 21;
+  entity array_mul at 10( 189) + 0 on 22;
+  architecture arra_mul_arch of array_mul at 24( 481) + 0 on 23;
