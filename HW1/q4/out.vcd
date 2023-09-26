@@ -1,0 +1,32 @@
+$date
+  Mon Apr 10 14:38:12 2023
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module std_logic_arith $end
+$upscope $end
+$scope module std_logic_unsigned $end
+$upscope $end
+$scope module array_type $end
+$upscope $end
+$scope module test4 $end
+$comment arr1 is not handled $end
+$comment arr2 is not handled $end
+$var integer 32 ! output $end
+$scope module cal $end
+$comment arr1 is not handled $end
+$comment arr2 is not handled $end
+$var integer 32 " output $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
