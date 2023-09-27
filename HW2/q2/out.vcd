@@ -1,0 +1,35 @@
+$date
+  Thu Jun  1 11:06:24 2023
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module test2 $end
+$var reg 10 ! input[9:0] $end
+$var reg 6 " output[5:0] $end
+$scope module cal $end
+$var reg 10 # input[9:0] $end
+$var reg 6 $ output[5:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000010000 !
+b000100 "
+b0000010000 #
+b000100 $
+#10000
+b0001110000 !
+b001011 "
+b0001110000 #
+b001011 $
+#20000
