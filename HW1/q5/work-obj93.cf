@@ -1,0 +1,8 @@
+v 4
+file . "test5.vhd" "b9da59aa3d691b2920702c2bcee058a9aef7ca96" "20230410114550.878":
+  entity test5 at 1( 0) + 0 on 22;
+  architecture testbench of test5 at 8( 123) + 0 on 23;
+file . "5.vhd" "e5e8f5c344965913f67622f6879e09fa86f2d7eb" "20230410114548.493":
+  package complex_pkg at 1( 0) + 0 on 19;
+  entity complex_operations at 13( 251) + 0 on 20;
+  architecture behavioral of complex_operations at 27( 627) + 0 on 21;

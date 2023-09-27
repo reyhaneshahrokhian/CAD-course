@@ -1,0 +1,60 @@
+$date
+  Mon Apr 10 15:15:55 2023
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module std_logic_arith $end
+$upscope $end
+$scope module std_logic_unsigned $end
+$upscope $end
+$scope module complex_pkg $end
+$upscope $end
+$scope module test5 $end
+$comment a is not handled $end
+$comment b is not handled $end
+$var reg 2 ! op[1:0] $end
+$comment result is not handled $end
+$var integer 32 " r1 $end
+$var integer 32 # r2 $end
+$scope module cal $end
+$comment a is not handled $end
+$comment b is not handled $end
+$var reg 2 $ op[1:0] $end
+$comment result is not handled $end
+$var integer 32 % r1 $end
+$var integer 32 & r2 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b00 !
+b10 "
+b100 #
+b00 $
+b10 %
+b100 &
+#10000
+b01 !
+b0 "
+b0 #
+b01 $
+b0 %
+b0 &
+#20000
+b10 !
+b11111111111111111111111111111101 "
+b100 #
+b10 $
+b11111111111111111111111111111101 %
+b100 &
+#30000
