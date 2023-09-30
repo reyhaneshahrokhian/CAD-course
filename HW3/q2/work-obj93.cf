@@ -1,0 +1,7 @@
+v 4
+file . "test2.vhd" "65a1108eccca1fde3ebf8dc1f2f051c5fbff0428" "20230630151725.854":
+  entity test2 at 1( 0) + 0 on 33;
+  architecture behavioral of test2 at 9( 132) + 0 on 34;
+file . "q2.vhd" "0aaa38aee4871d925da334684a018f2cecb5d43a" "20230630151722.953":
+  package recursive_functions at 1( 0) + 0 on 31 body;
+  package body recursive_functions at 11( 289) + 0 on 32;
