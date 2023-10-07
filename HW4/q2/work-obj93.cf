@@ -1,0 +1,7 @@
+v 4
+file . "q2.vhd" "963a193e5d7eac1a07b33bd67d9cde4a1866e8d2" "20230623124740.016":
+  entity q2 at 1( 0) + 0 on 29;
+  architecture behavioral of q2 at 17( 345) + 0 on 30;
+file . "test2.vhd" "331b498ad68794aeab62c017c6d1a415bc0ddda3" "20230623131103.325":
+  entity test2 at 1( 0) + 0 on 37;
+  architecture testbench of test2 at 11( 144) + 0 on 38;
