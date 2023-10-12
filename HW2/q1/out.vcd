@@ -1,0 +1,32 @@
+$date
+  Wed May 31 15:49:47 2023
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module std_logic_arith $end
+$upscope $end
+$scope module std_logic_unsigned $end
+$upscope $end
+$scope module array_type $end
+$upscope $end
+$scope module test1 $end
+$comment input is not handled $end
+$comment output is not handled $end
+$scope module cal $end
+$comment input is not handled $end
+$comment output is not handled $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+#10000
